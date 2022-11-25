@@ -1,0 +1,115 @@
+.achever{
+    margin-right: 700px;
+}
+.span-1{
+    text-decoration: underline;
+    color: blue;
+}
+.laplook{
+    background-image: url(./img/Close-up-hands-group-working-on-laptop.jpeg);
+    background-size: cover;
+}
+
+
+.happy{
+    background-image: url(./img/happy-asian-man-standing-with-arms-crossed-grey-wall.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 500px;
+    height: 350px;
+}
+.letter{
+    position: relative;
+    top: 270px;
+    background-color: aliceblue;
+}
+.poo2{
+    position: relative;
+    right: 10px;
+}
+.poo3{
+    position: relative;
+    right: 20px;
+}
+.poo4{
+    position: relative;
+    right: 30px;
+}
+.face1{
+    background-image: url(./img/senior-man-white-sweater-eyeglasses.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 270px;
+    height: 230px;
+}
+.letter2{
+    position: relative;
+    top: 150px;
+    background-color: aliceblue;
+}
+.face2{
+    background-image: url(./img/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 270px;
+    height: 230px;
+}
+.letter2{
+    position: relative;
+    top: 150px;
+    background-color: aliceblue;
+}
+.face3{
+    background-image: url(./img/portrait-good-looking-brunette-young-asian-woman.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 270px;
+    height: 230px;
+}
+.letter3{
+    position: relative;
+    top: 150px;
+    background-color: aliceblue;
+}
+.face4{
+    background-image: url(./img/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 270px;
+    height: 230px;
+}
+.letter4{
+    position: relative;
+    top: 150px;
+    background-color: aliceblue;
+}
+.im{
+    background-image: url(./img/th.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.dollar{
+    position: relative;
+    left: 150px;
+}
+.card-header{
+    background-color: rgb(48, 2, 92);
+}
+.badge{
+    background: rgb(48,2,92);
+    
+}
+.herebg{
+    background-color: aqua;
+}
+.please{
+    background-image: url(./img/th\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.keycard{
+    display: flex;
+    justify-content: center;
+}
+
